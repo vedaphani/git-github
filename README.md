@@ -1,2 +1,2 @@
 # git-github
-This a soam
+This is a sample
